@@ -59,27 +59,27 @@ function Footer() {
           <ul className="flex gap-2">
             <li className="">
               <a href="">
-                <img src="src/assetsimages/icons/facebook.png" alt="" />
+                <img src="images/icons/facebook.png" alt="" />
               </a>
             </li>
             <li className="">
               <a href="">
-                <img src="src/assets/images/icons/instagram.png" alt="" />
+                <img src="/images/icons/instagram.png" alt="" />
               </a>
             </li>
             <li className="">
               <a href="">
-                <img src="src/assets/images/icons/twitter.png" alt="" />
+                <img src="/images/icons/twitter.png" alt="" />
               </a>
             </li>
             <li className="">
               <a href="">
-                <img src="src/assets/images/icons/whatsapp.png" alt="" />
+                <img src="/images/icons/whatsapp.png" alt="" />
               </a>
             </li>
             <li className ="">
               <a href="">
-                <img src="src/assets/images/icons/youtube.png" alt="" />
+                <img src="images/icons/youtube.png" alt="" />
               </a>
             </li>
           </ul>
