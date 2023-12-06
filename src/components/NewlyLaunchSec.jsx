@@ -1,5 +1,5 @@
 import React from "react";
-import { NewlyLaunchPlaces } from "../constants/places.jsx";
+import { NewlyLaunchPlaces } from "../assets/constants/places.jsx";
 
 function NewlyLaunchSec() {
   const Card = ({ place }) => (

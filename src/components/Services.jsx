@@ -1,4 +1,4 @@
-import { services } from "../constants/services";
+import { services } from "../assets/constants/services";
 
 function Services() {
   const ServiceCard = ({ service }) => (

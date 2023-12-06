@@ -38,7 +38,7 @@ const AboutUs = () => {
           <div className=" w-full hidden md:block right-0">
             <div className="inner-column relative">
               <div className="image absolute right-8">
-                <img src="public/images/about.jpg" alt="" />
+                <img src="src/assets/images/about.jpg" alt="" />
               </div>
             </div>
           </div>

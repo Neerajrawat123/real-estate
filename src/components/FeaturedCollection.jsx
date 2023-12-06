@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { category } from "../constants/places.jsx";
+import { category } from "../assets/constants/places.jsx";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { IoIosArrowRoundBack } from "react-icons/io";
 

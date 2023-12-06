@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { cards } from "../constants/card.jsx";
+import { cards } from "../assets/constants/card.jsx";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { IoIosArrowRoundBack } from "react-icons/io";
 

@@ -44,7 +44,7 @@ export default function HeroSec() {
               <span className="sr-only">Logo</span>
               <img
                 className="h-8 w-auto text-indigo-700"
-                src="/public/images/aadhar.png"
+                src="/src/assets/images/aadhar.png"
                 alt=""
               />
             </a>
@@ -80,7 +80,7 @@ export default function HeroSec() {
                 <span className="sr-only">Your Company</span>
                 <img
                   className="h-8 w-auto"
-                  src="/public/images/aadhar.png"
+                  src="src/assets/images/aadhar.png"
                   alt=""
                 />
               </a>
@@ -121,7 +121,7 @@ export default function HeroSec() {
       </header>
       <div className="absolute h-full w-full">
         <img className='h-screen object-cover' 
-        src="/public/images/beautiful-view-city-twilight.jpg" alt="" />
+        src="src/assets/images/beautiful-view-city-twilight.jpg" alt="" />
       </div>
 
       <div className="relative isolate px-6 pt-14 lg:px-8">
